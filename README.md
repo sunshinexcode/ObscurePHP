@@ -5,7 +5,7 @@ Obscure PHP code, delete comments and blank lines.
 
 
 ***
-### Function
+## Function
 
 （功能）
 - 混淆变量
