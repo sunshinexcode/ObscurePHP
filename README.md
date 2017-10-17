@@ -4,7 +4,11 @@ Obscure PHP code, delete comments and blank lines.
 （混淆PHP代码， 删除注释和空行）
 
 
-***
+![混淆前](src/img/source.png "混淆前")
+
+![混淆后](src/img/obscure.png "混淆后")
+
+
 ## Function
 
 （功能）
@@ -13,7 +17,6 @@ Obscure PHP code, delete comments and blank lines.
 - 删除空行
 
 
-***
 ## Option
 
 （选项）
@@ -27,7 +30,6 @@ Options|Default|Desc
 --save-path|混淆项目路径+obscure后缀|保存路径
 
 
-***
 ## Usage
 
 （用法）
@@ -58,7 +60,6 @@ Options|Default|Desc
 保留空行
 
 
-***
 ## Author
 
 Email: 24xinhui@163.com
