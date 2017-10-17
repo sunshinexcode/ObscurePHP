@@ -5,7 +5,7 @@ Obscure PHP code, delete comments and blank lines.
 
 
 ***
-##Function
+### Function
 
 （功能）
 - 混淆变量
@@ -14,7 +14,7 @@ Obscure PHP code, delete comments and blank lines.
 
 
 ***
-##Option
+## Option
 
 （选项）
 
@@ -28,7 +28,7 @@ Options|Default|Desc
 
 
 ***
-Usage
+## Usage
 
 （用法）
 
@@ -59,6 +59,6 @@ Usage
 
 
 ***
-Author
+## Author
 
 Email: 24xinhui@163.com
