@@ -5,7 +5,6 @@ Obscure PHP code, delete comments and blank lines.
 
 
 ![混淆前](src/img/source.png "混淆前")
-
 ![混淆后](src/img/obscure.png "混淆后")
 
 
