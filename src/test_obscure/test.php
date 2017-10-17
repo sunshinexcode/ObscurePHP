@@ -1,10 +1,8 @@
 <?php
-$w = 'sunshine';
-$l = '24xinhui@163.com';
-$tsj = 'Hello World!';
-
-
-$u = [];
+$awgvrp = 'sunshine';
+$gc = '24xinhui@163.com';
+$adhc = 'Hello World!';
+$giqgxm = [];
 $_REQUEST = [];
 $_POST = [];
 $_GET = [];
@@ -19,6 +17,6 @@ class HelloWorld {
     public $user = '';
     protected $name = '';
 }
-echo $w;
-echo $l;
-echo $tsj;
+echo $awgvrp;
+echo $gc;
+echo $adhc;
